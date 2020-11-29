@@ -5,3 +5,5 @@ hello <- function(){
   browser()
   print("hello world!!!")
 }
+
+use_git()
